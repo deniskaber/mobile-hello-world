@@ -1,2 +1,0 @@
-mobile-hello-world
-==================
